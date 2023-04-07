@@ -1,0 +1,14 @@
+.box-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    border: solid black 2px;
+    border-radius: 10%;
+}
